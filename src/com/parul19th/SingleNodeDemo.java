@@ -62,6 +62,7 @@ public class SingleNodeDemo {
 //    	        SingleNode singleNode = new SingleNode(10);
 //    	        System.out.println("Node value:: " + singleNode.data + " ref >>> " + singleNode.next);
     	    }
+
     	
 
     	
